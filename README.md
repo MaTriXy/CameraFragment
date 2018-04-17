@@ -9,11 +9,7 @@ CameraFragment preview directly the camera view, and provides a easy API to capt
 
 You can setup your own layout and control the camera using CameraFragment
 
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/iqkQGAc2EFNdScAzpwZr1Sdy/florent37/CameraFragment'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/iqkQGAc2EFNdScAzpwZr1Sdy/florent37/CameraFragment.svg' />
-</a>
-
-<a href="https://play.google.com/store/apps/details?id=com.github.florent37.florent.champigny">
+<a href="https://goo.gl/WXW8Dc">
   <img alt="Android app on Google Play" src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" />
 </a>
 
@@ -149,7 +145,7 @@ CameraFragment comes with some default views
 
 In your module [![Download](https://api.bintray.com/packages/florent37/maven/CameraFragment/images/download.svg)](https://bintray.com/florent37/maven/CameraFragment/_latestVersion)
 ```groovy
-compile 'com.github.florent37:camerafragment:1.0.7'
+compile 'com.github.florent37:camerafragment:1.0.10'
 ```
 
 # Community
@@ -162,9 +158,11 @@ Author: Florent Champigny [http://www.florentchampigny.com/](http://www.florentc
 
 Blog : [http://www.tutos-android-france.com/](http://www.www.tutos-android-france.com/)
 
-<a href="https://play.google.com/store/apps/details?id=com.github.florent37.florent.champigny">
+
+<a href="https://goo.gl/WXW8Dc">
   <img alt="Android app on Google Play" src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" />
 </a>
+
 <a href="https://plus.google.com/+florentchampigny">
   <img alt="Follow me on Google+"
        src="https://raw.githubusercontent.com/florent37/DaVinci/master/mobile/src/main/res/drawable-hdpi/gplus.png" />
