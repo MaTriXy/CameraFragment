@@ -13,6 +13,15 @@ You can setup your own layout and control the camera using CameraFragment
   <img alt="Android app on Google Play" src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" />
 </a>
 
+# CameraKit
+
+This library works, but on some devices... errors happens, I don't have time to maintain compatibility with all device
+A community group was created, they created CameraKit, don't hesitate to try it !
+
+https://github.com/CameraKit/camerakit-android
+
+# Setup
+
 [![png](https://raw.githubusercontent.com/florent37/CameraFragment/master/media/sample.png)](https://github.com/florent37/CameraFragment)
 
 ```java
@@ -151,6 +160,11 @@ compile 'com.github.florent37:camerafragment:1.0.10'
 # Community
  
 Forked from [https://github.com/memfis19/Annca](https://github.com/memfis19/Annca)
+
+This library works, but on some devices... errors happens, I don't have time to maintain compatibility with all device
+A community group was created, they created CameraKit, don't hesitate to try it !
+
+https://github.com/CameraKit/camerakit-android
 
 # Credits
 
