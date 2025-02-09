@@ -154,7 +154,7 @@ CameraFragment comes with some default views
 
 In your module [![Download](https://api.bintray.com/packages/florent37/maven/CameraFragment/images/download.svg)](https://bintray.com/florent37/maven/CameraFragment/_latestVersion)
 ```groovy
-compile 'com.github.florent37:camerafragment:1.0.10'
+implementation 'com.github.florent37:camerafragment:1.0.10'
 ```
 
 # Community
@@ -172,6 +172,7 @@ Author: Florent Champigny [http://www.florentchampigny.com/](http://www.florentc
 
 Blog : [http://www.tutos-android-france.com/](http://www.www.tutos-android-france.com/)
 
+Fiches Plateau Moto : [https://www.fiches-plateau-moto.fr/](https://www.fiches-plateau-moto.fr/)
 
 <a href="https://goo.gl/WXW8Dc">
   <img alt="Android app on Google Play" src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" />
